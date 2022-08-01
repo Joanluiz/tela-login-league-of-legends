@@ -1,2 +1,2 @@
-# tela-login-league-of-legend
- Tela de login do game League of Legend feita com HTML, CSS e JS
+# League-of-Legends-HTML-CSS-JS
+ Tela de Login do game League of Legend com HTML, CSS e JS
